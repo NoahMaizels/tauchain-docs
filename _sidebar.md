@@ -5,5 +5,5 @@
 * [Tau Use Cases](use-cases.md)
 * [Tau Metalanguage Playground](tml-playground.md)
 * [Agoras](agoras.md)
-* [media](media.md)
+* [Media](media.md)
 * [Contribute to the Docs](how-to-contribute.md)
