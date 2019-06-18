@@ -13,3 +13,11 @@ By leveraging the power of Tau, Agoras participants will have access to a vast w
 
 ## Efficiency and Fairness
 The efficiency of a market is first and foremost a function of the speed at which information propagates within that market. As our economy is entirely online, information can flow quickly and freely so we can expect Agoras to be highly efficient. This creates a fairer market in terms of information availability being more even. Another aspect of fairness is that resources on our network are typically bought by larger entities and sold by the wider audience: larger players are more likely the ones who need to rent millions of computers and are willing to pay for the unique knowledge held by the user-base, while smaller participants can simply rent out their idle computing power. We can therefore expect to see money flowing in the right direction: from the rich to the poor.
+
+## AGRS Token
+The AGRS token is the cryptocurrency which will power the Agoras market. It is the currency which will be used to purchase  goods and services on Agoras. AGRS is currently tradable on several markets:
+* [Open Ledger](https://openledger.io/market/OPEN.AGRS_BTS)
+* [BCEX](https://www.bcex.ca/trade/agrs_btc)
+* [OmniDEX](https://www.omniwallet.org/dex/overview)
+* [CHAOEX](https://www.chaoex.com/home)
+* [ZBMega](https://www.zbm.com/en/#/n/index)
